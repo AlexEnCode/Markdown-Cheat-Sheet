@@ -59,8 +59,11 @@ Here is `inline code`.
 
 ### Code Block
 \`\`\`language
+
 // Example in JavaScript
+
 console.log("Hello, world!");
+
 \`\`\`
 
 ---
