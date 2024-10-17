@@ -118,7 +118,6 @@ like this.
 ---
 
 ## Embedding Images with Different Sizes
-To control the size of images, HTML is again helpful.
 
 <img src="https://example.com/image.jpg" alt="Description" width="300" height="200">
 
