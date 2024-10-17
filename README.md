@@ -116,51 +116,46 @@ like this.
 
 ## Colors and Text Styles using HTML
 
-```markdown
 <span style="color:blue">This text is blue</span>
 <span style="color:red; font-weight:bold">This text is bold and red</span>
-```
 
 ---
 
 ## Forms using HTML
 
-```markdown
 <form>
   <label for="name">Name:</label>
   <input type="text" id="name" name="name">
   <input type="submit" value="Submit">
 </form>
-```
 
 ---
 
 ## Embedding Images with Different Sizes
 To control the size of images, HTML is again helpful.
 
-```markdown
 <img src="https://example.com/image.jpg" alt="Description" width="300" height="200">
-```
 
 ---
 
 ##  Embedding Videos
 
-```markdown
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/your-video-id" frameborder="0" allowfullscreen></iframe>
-```
+
 
 ---
 
 ## Adding Comments
-```markdown
+
 <!-- This is a comment and will not appear in the rendered Markdown -->
-```
+
 
 ---
 
 ## Advanced Tables with HTML
-```markdown
+
+
 <table>
   <tr>
     <th rowspan="2">Header 1</th>
@@ -176,7 +171,7 @@ To control the size of images, HTML is again helpful.
     <td>Data 3</td>
   </tr>
 </table>
-```
+
 
 ---
 
@@ -185,7 +180,7 @@ To control the size of images, HTML is again helpful.
 - **GitHub Flavored Markdown (GFM)**, which includes features like task lists, tables, and syntax highlighting.
 - **Mermaid Diagrams** for flowcharts and other visualizations in Markdown (supported on platforms like GitHub and GitLab).
 
-```markdown
+
 ```mermaid
 graph TD;
     A-->B;
@@ -193,7 +188,7 @@ graph TD;
     B-->D;
     C-->D;
 ```
-```
+
 
 ---
 
